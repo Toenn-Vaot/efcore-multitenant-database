@@ -1,0 +1,11 @@
+@Multitenant.Api_HostAddress = http://localhost:5194
+
+GET {{Multitenant.Api_HostAddress}}/clients/
+Accept: application/json
+###
+
+@clientId = 1
+
+GET {{Multitenant.Api_HostAddress}}/clients/{{clientId}}
+Accept: application/json
+###
