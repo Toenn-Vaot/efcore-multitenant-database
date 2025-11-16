@@ -1,4 +1,4 @@
-# Multitenant
+# EF Core - Multitenant database
 
 This project was done in the tutorial : https://blog.toenn-vaot.fr/how-to-generate-a-database-per-tenant-in-multi-tenant-system
 
